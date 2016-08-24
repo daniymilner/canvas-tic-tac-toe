@@ -5,4 +5,5 @@
 body{
 	background: url("../img/background.jpg") no-repeat center;
 	background-size: cover;
+	overflow: hidden;
 }

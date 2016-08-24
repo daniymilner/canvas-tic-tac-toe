@@ -1,1 +1,1 @@
-# canvas-tic-tac-toe
+# Canvas Tic-tac-toe
