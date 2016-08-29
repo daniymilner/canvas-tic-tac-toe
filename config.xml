@@ -80,7 +80,7 @@
 
 	<preference name="ErrorUrl" value="myErrorPage.html"/>
 
-	<preference name="ShowTitle" value="true"/>
+	<preference name="ShowTitle" value="false"/>
 
 	<preference name="LogLevel" value="VERBOSE"/>
 
