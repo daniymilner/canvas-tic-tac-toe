@@ -30,11 +30,11 @@
 
 	<preference name="DisallowOverscroll" value="true"/>
 
-	<preference name="Orientation" value="landscape"/>
+	<preference name="Orientation" value="default"/>
 
 	<preference name="HideKeyboardFormAccessoryBar" value="false"/>
 
-	<preference name="BackgroundColor" value="0xff0000ff"/>
+	<preference name="BackgroundColor" value="0xf6f6f6"/>
 
 
 	<!--iOS Preferences-->

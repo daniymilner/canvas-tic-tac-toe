@@ -3,3 +3,7 @@ var canvas = CE
 	.ready(function(){
 		canvas.Scene.call("MyScene");
 	});
+
+window.addEventListener("orientationchange", function() {
+	location.reload();
+});
